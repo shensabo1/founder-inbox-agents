@@ -1,0 +1,9 @@
+id,router_category,router_risk,router_reason,drafter_record_found,drafter_template,drafter_needs_human,draft,reviewer_policy,reviewer_facts,reviewer_no_overpromising,reviewer_answers_question,reviewer_tone,reviewer_safety,reviewer_decision,reviewer_reason,final_outcome
+E01,bedrock_question,high,"The founder says they were approved but their credits do not apply when calling Claude through AWS Bedrock, which is a bedrock_question about credits not applying to a non-direct channel and involves money, so it is rated high.",yes,T5,no,"Hi Priya,
+
+Thanks for the question! Your startup credits apply to the Claude API through the Claude Console. They don't apply to Claude through AWS Bedrock, which is why you're not seeing them there.
+
+If you send your requests through the Claude API with your Console account, your credits will apply. Let us know if you run into any trouble.
+
+Happy building,
+The Claude for Startups team",PASS,PASS,PASS,PASS,PASS,PASS,APPROVE,"The draft correctly says credits apply only to the Claude API through the Console and not AWS Bedrock, which matches the policy and Priya's approved and active record. It makes no promises, is under 150 words, shares nothing sensitive, and is neither a denial nor an exception request.",Send

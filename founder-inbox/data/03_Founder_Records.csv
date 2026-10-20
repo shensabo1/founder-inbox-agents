@@ -1,0 +1,15 @@
+company,founder,email,founded_date,funding,prior_credits,prior_credits_detail,application_status,credit_status,credit_expiration
+Lumen Labs,Priya Shah,priya@lumenlabs.ai,2024-03-12,"Seed round, institutional VC",No,,Approved,Active,2027-03-31
+Gridwise,Marcus Lee,marcus@gridwise.io,2021-06-02,"Series A, institutional VC",No,,Denied: founded more than four years ago,None,
+Fernbrook AI,Dana Ortiz,dana@fernbrook.ai,2025-01-20,"Bootstrapped, no outside funding",No,,Denied: no institutional funding,None,
+Tallypoint,Sam Okafor,sam@tallypoint.com,2023-08-15,"Seed round, institutional VC",Yes,2024 through the Launchpad accelerator,Denied: prior credits received,None,
+Northwind Health,Elena Park,elena@northwindhealth.co,2024-11-04,"Pre-seed, partner accelerator (Harbor Labs)",No,,Approved,Active,2027-11-30
+Quillstack,Ben Turner,ben@quillstack.dev,2025-05-09,"Seed round, institutional VC",No,,Pending review (submitted 2026-10-08),None,
+Orbitly,Hana Mori,hana@orbitly.app,2022-10-25,"Seed round, institutional VC",No,,Approved,Active,2027-01-31
+Cobalt Ridge,Jordan Fox,jordan@cobaltridge.ai,2023-02-14,Angel investors only,No,,Denied: no institutional funding,None,
+Sproutly,Maya Chen,maya@sproutly.io,2024-07-01,"Seed round, partner VC (Northstar Ventures), referral applied",No,,Approved,Active,2027-07-31
+Datahive,Omar Haddad,omar@datahive.ai,2023-12-05,"Series A, institutional VC",No,,Approved,Used (balance 0),2027-01-31
+Pinecrest Robotics,Leah Kim,leah@pinecrest.ai,2025-09-17 (reincorporated; original company formed 2019),"Seed round, institutional VC",No,,No application on file,None,
+Voxa,Ravi Patel,ravi@voxa.ai,2024-02-26,"Seed round, institutional VC",No,,Approved,Active,2027-02-28
+Brightlane,Chris Duarte,chris@brightlane.co,2026-01-13,"Pre-seed, institutional VC",No,,Approved,Active,2027-12-31
+Meridian Ops,Tasha Green,tasha@meridianops.com,2024-05-22,"Seed round, institutional VC",No,,"Approved (NOTE: Trust and Safety flag, duplicate applications)",Active,2027-05-31
