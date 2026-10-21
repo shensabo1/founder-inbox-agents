@@ -101,7 +101,7 @@ The Claude for Startups team
 
 Hi [First name],
 
-Thanks for reaching out! Our records show [Company]'s referral from [Partner name] was applied to your application. Any additional partner benefits are handled by our Partnerships team, and they'll reach out directly if anything applies.
+Thanks for reaching out! Our records show [Company]'s referral from [Partner name] was applied to your application. Any additional partner benefits are handled by our Partnerships team, who decide what applies to each company.
 
 Happy building,
 The Claude for Startups team

@@ -34,6 +34,10 @@ Selection is rolling and at Anthropic's discretion. Meeting the criteria makes a
 
 Founders apply at claude.com/programs/startups with a Claude Console account and a company email address.
 
+- If a previously denied founder reports new information (such
+  as new funding), they must submit a fresh application. The
+  inbox does not reopen denied applications.
+
 ## What the inbox must never do
 
 - Promise credits, extra credits, extensions, or exceptions

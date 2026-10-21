@@ -47,6 +47,9 @@ DECISION RULES
 - Always FLAG denials (templates T2, T3, T4) and exception
   requests, even if they pass.
 - If you're unsure, FLAG.
+- Only flag issues relevant to what the founder asked.
+  Information in their record that doesn't affect the answer is
+  not a reason to flag.
 
 OUTPUT (exactly this format, nothing else)
 policy: PASS or FAIL
