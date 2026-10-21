@@ -9,7 +9,7 @@ A practice pipeline of three Claude Code subagents (**router**, **drafter** and 
 ## Repository layout
 
 ```
-founder-inbox/                 # the pipeline (agents only ever see this folder)
+founder-inbox/                 # the pipeline (agents are instructed to read only this folder; transcript audit confirmed it)
   CLAUDE.md                    # orchestrator instructions for the main session
   .claude/agents/
     router.md                  # Haiku: category + risk
@@ -103,11 +103,11 @@ Sources: [`scored_run_1_calibrated.xlsx`](founder-inbox-grading/scored_run_1_cal
 - **Run 2: router fixes only.** The hand-run 10 went to 10 / 10, but the held-out 20 didn't move. Two fixes (E13, E28) were cancelled out by two new breaks (E14, E25). Only the held-out set caught it.
 - **Run 3: drafter, reviewer, template, policy, and router follow-up fixes.** The held-out set went from 15 to 19, and no email went from pass to fail. The only remaining overall miss is E29.
 
-## Main failures found in run 1
+## Main failures found in run 1 (scored against the original key)
 
 Most misses came from the **router** (13 of 17 individual misses, including 5 of the 8 overall misses):
 
-- **Category confusion between neighbouring labels.** An application status question (E06) went to `general` instead of `eligibility`. A thank-you note (E13) went to `credit_status` instead of `general`. A location question (E19) went to `eligibility` instead of `general`. A credit-sharing request (E28) went to `partner_vc` instead of `credit_status`.
+- **Category confusion between neighbouring labels.** An application status question (E06) went to `general` before the `application_status` category existed. A thank-you note (E13) went to `credit_status` instead of `general`. A credit-sharing request (E28) went to `partner_vc` instead of `credit_status`.
 - **Over-triggering on "sensitive."** E23 ("we just raised a seed round, can you approve us now?") was read as an instruction to the AI and stopped. It should have reached the drafter so the funding claim could be checked against the records.
 - **Risk calibration.** The router can't see the records, so it rated likely denials low (E03, E08 and E26). It rated out-of-scope but harmless requests high (E21 and E25) and a routine referral check high (E22).
 
