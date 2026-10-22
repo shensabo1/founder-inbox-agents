@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Elena,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Requests to share or transfer credits are exception requests (and a new Console organization is not covered by the policy), so they go to a human via the holding reply; the Escalation map routes this to the Program lead. No credits or transfers are promised.
+needs_human: yes
+reason: Moving credits to a separate Console organization is a transfer request that the policy doesn't allow the inbox to grant or decide.

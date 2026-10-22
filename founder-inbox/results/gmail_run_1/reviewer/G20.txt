@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The question about Anthropic's rights to data and prompts is a legal question that the policy doesn't cover, so it belongs with Legal / Operations. The hand-off draft passes all six items, but this is not low risk and I'm unsure it should go out unchecked, so I flag it.

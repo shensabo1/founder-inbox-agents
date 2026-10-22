@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T11
+draft: Hi Elena,
+
+Thanks so much for the kind note! We're glad Claude is working well for Northwind Health. If anything comes up, just reply to this email.
+
+Happy building,
+The Claude for Startups team
+policy_rule_applied: General thank-you note with no question or request, so no policy decision is needed. The reply promises nothing (no credits, extensions, or exceptions) and shares only the sender's own company name.
+needs_human: no
+reason: The email is a simple thank-you from a sender with a matching record, and T11 fits it without any policy question.

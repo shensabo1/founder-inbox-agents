@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: FAIL
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: Country availability is not covered by the policy and the sender has no record, so a human handoff is correct, but the draft does not answer Mateo's question about Mexico and I am unsure, so it goes to a human.

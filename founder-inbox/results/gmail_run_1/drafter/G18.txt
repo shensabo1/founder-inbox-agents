@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Dana,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Not covered by this policy: the policy sets no waiting period for reapplying after a denial, so the question goes to a human (Program lead) instead of a guess.
+needs_human: yes
+reason: Fernbrook AI's record shows a denial for no institutional funding, but the policy says nothing about how long a denied company must wait before reapplying.

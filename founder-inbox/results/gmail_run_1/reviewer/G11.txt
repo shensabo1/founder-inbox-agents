@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: APPROVE
+reason: The draft is a warm, short thank-you reply to an approved founder with active credits, and it makes no promises or policy claims and shares nothing sensitive.

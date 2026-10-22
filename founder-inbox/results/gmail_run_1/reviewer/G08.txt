@@ -1,0 +1,8 @@
+policy: FAIL
+facts: PASS
+no_overpromising: PASS
+answers_question: FAIL
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The policy says grants do not count as institutional equity funding, and Jordan's record shows angel-only funding with a denied application, but the draft applies no rule and gives no answer, only vaguely deferring to an unnamed person; this is also a denial-related situation, so it is flagged.

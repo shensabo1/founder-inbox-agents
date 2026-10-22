@@ -1,0 +1,15 @@
+record_found: yes
+template_used: T1
+draft: Hi Priya,
+
+Thanks for reaching out! Good news: Lumen Labs is approved for the Claude for Startups program, and your credits are active in your Claude Console account. Your credits are set to expire on 2027-03-31.
+
+Your credits apply to the Claude API through the Claude Console, and you also have priority rate limits while they're active.
+
+To answer your question: priority rate limits are included with the program while your credits are active, so you don't need to request them separately.
+
+Happy building,
+The Claude for Startups team
+policy_rule_applied: Approved startups get priority rate limits while credits are active. The records show Lumen Labs is Approved with Active credits that expire 2027-03-31.
+needs_human: no
+reason: The records show Lumen Labs is approved with active credits, and the policy says priority rate limits come with active credits, so the question is fully covered.

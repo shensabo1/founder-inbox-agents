@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Marcus,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Founder proposes a different founding date (launch date instead of incorporation). Per drafter rules, don't re-decide from existing records; use T10 and escalate. The policy doesn't define "founded date" beyond the Founder Records, so this goes to the Program lead.
+needs_human: yes
+reason: Marcus is asking whether a different founding date (product launch) can replace incorporation for the four-year rule, which the policy doesn't cover and which could affect eligibility, so a human must answer.

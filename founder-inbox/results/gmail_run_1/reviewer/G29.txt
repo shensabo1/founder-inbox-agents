@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: FAIL
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The draft is a generic hand-off that never answers Jordan's reapply question (the policy says new funding means a fresh application, and the record shows a prior denial for angel-only funding), and whether an unclosed term sheet counts is not covered by policy and needs a human.

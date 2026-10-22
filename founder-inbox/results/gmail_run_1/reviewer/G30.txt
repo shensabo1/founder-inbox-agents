@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: APPROVE
+reason: Kai has no founder record, and the draft correctly avoids judging eligibility from the email's claims. It gives the three policy criteria and the application steps, promises nothing, and stays under 150 words.

@@ -1,0 +1,11 @@
+record_found: no
+template_used: T10
+draft: Hi there,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: The inbox must never share one founder's information with another person, and replies must be based on the sender's own record. The sender (partner@summitcap.vc) has no record, and their question depends on another company's records.
+needs_human: yes
+reason: The sender is not in the records and is asking for another company's credit details, which cannot be shared with a third party, so a human must verify the request.

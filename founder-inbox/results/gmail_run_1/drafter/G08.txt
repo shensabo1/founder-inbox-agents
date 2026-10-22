@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Jordan,
+
+Thanks for your message, and congratulations on the grant! I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: A founder reporting new funding that could affect eligibility must not be re-decided from existing records, so the holding reply T10 is used and the case goes to a human (the policy also sends exceptions and uncovered questions to the Program lead).
+needs_human: yes
+reason: Jordan reported new funding (a $500k grant), which is a reported change that could affect eligibility, so it needs human review rather than a decision from the existing record.

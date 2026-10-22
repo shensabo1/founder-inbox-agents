@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The draft correctly avoids promising an extension and hands the request to a person, which fits the policy's Program lead escalation, but an extension request is an exception request and those are always flagged.

@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: APPROVE
+reason: The draft correctly states that credits apply only to the Claude API through the Console and not to AWS Bedrock, answers Chris's question directly, promises nothing extra, and is warm and under 150 words.

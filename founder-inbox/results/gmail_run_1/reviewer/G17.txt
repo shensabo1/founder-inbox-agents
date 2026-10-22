@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: FAIL
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The record shows an ambiguous founded date (reincorporated 2025, original company formed 2019) that the policy does not cover, so a human must decide eligibility, and the draft gives no application steps (claude.com/programs/startups) while only deferring to a person.

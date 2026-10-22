@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: FAIL
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The draft doesn't tell Chris that VC funds join the partner program by applying separately, which the policy does cover, and it only says the message was passed to someone unnamed. Partner program requests belong with Partnerships, so a human should handle it.

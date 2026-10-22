@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The draft is accurate and promises no perks, but this is a partner-benefit request that policy routes to Partnerships, and the draft claims the question was already flagged and will get a direct follow-up, so a human should check that handoff before it is sent.

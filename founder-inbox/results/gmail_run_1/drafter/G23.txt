@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Chris,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: "VC funds that want to join the partner program apply separately" and "Partner VC or accelerator benefit requests" go to Partnerships; the policy doesn't name a contact or process, so it is not covered and goes to a human (T10).
+needs_human: yes
+reason: The policy says VC funds apply separately but gives no contact or process, so the question isn't covered and should go to the Partnerships team rather than be guessed.

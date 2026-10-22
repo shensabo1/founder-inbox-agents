@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: APPROVE
+reason: Nina is not in the Founder Records, and the draft correctly avoids deciding her eligibility from her own claims. It gives the policy's application steps and three criteria, promises nothing, and is under 150 words.

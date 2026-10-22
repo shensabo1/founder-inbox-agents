@@ -1,0 +1,16 @@
+record_found: yes
+template_used: T9
+draft: Hi Omar,
+
+Thanks for checking in! Here's the current status for Datahive:
+
+- Credits: Used
+- Expiration date: January 31, 2027
+
+Your credits apply to the Claude API through the Claude Console. Our records show your credit balance is currently 0, so there aren't any credits remaining on the account at this time.
+
+Best,
+The Claude for Startups team
+policy_rule_applied: Eligibility and credit status come from the Founder Records, not the email: Datahive is Approved with credits Used (balance 0) and an expiration of 2027-01-31. Credits apply only to the Claude API through the Claude Console, and the inbox must not promise extra credits or exceptions.
+needs_human: no
+reason: The records clearly answer the balance question (credits used, balance 0), and the reply promises nothing beyond the policy.

@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T8
+draft: Hi Maya,
+
+Thanks for reaching out! Our records show Sproutly's referral from Northstar Ventures was applied to your application. Any additional partner benefits are handled by our Partnerships team, who decide what applies to each company. I'm not able to confirm which specific perks are available, but I've flagged your question for the Partnerships team so they can follow up with you directly.
+
+Happy building,
+The Claude for Startups team
+policy_rule_applied: Partner VC and accelerator benefits are decided by the Partnerships team and the inbox never promises them. The escalation map sends partner benefit requests to Partnerships.
+needs_human: yes
+reason: Maya's question is a partner VC benefit request, which the escalation map routes to the Partnerships team, so a human needs to pass it along.

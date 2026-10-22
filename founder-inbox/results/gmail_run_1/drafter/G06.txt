@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T6
+draft: Hi Ben,
+
+Thanks for checking in! We have your application for Quillstack, and it's currently under review. Reviews usually take 1 to 2 weeks, and we'll email you as soon as a decision is made. Nothing in our records suggests a problem with your application.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Application status practice assumption: reviews usually take 1 to 2 weeks. Records show Quillstack as "Pending review" (submitted 2026-10-08), about 12 days ago, so it is still within that window.
+needs_human: no
+reason: The records show a pending application inside the normal 1 to 2 week review window, so the T6 template answers the question without any exception or new timeline.

@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: Marcus is asking for an exception to the four-year founding rule (Gridwise was founded 2021-06-02 and is already denied), and exception requests must always be flagged for the Program lead, even though the draft correctly hands it off without promising anything.

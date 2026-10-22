@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Leah,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Reported new funding plus a record noting reincorporation (original company formed 2019) could affect eligibility, so the drafter does not re-decide it. Exception and policy questions not covered go to the Program lead.
+needs_human: yes
+reason: Leah reports new seed funding and her record shows a reincorporation with an original 2019 formation date, so eligibility needs human review rather than a drafted answer.

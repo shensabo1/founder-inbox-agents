@@ -1,0 +1,13 @@
+record_found: yes
+template_used: T5
+draft: Hi Ravi,
+
+Thanks for the question! Your startup credits apply to the Claude API through the Claude Console. They don't apply to Claude through Google Cloud Vertex AI, which is why you're not seeing them on that bill.
+
+If you send your requests through the Claude API with your Console account, your credits will apply. Let us know if you run into any trouble.
+
+Happy building,
+The Claude for Startups team
+policy_rule_applied: Credits apply ONLY to the Claude API through the Claude Console, and do NOT apply to Claude through AWS Bedrock or Google Cloud Vertex AI.
+needs_human: no
+reason: Voxa is approved with active credits, and the policy directly answers why credits did not apply to a Vertex AI bill.

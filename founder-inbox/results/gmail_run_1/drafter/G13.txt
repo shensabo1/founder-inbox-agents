@@ -1,0 +1,11 @@
+record_found: no
+template_used: T10
+draft: Hi Raj,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Eligibility and application status must come from the Founder Records file, not the founder's claims. The sender has no record, and the status question depends on one, so it goes to a human.
+needs_human: yes
+reason: raj@fieldnote.app is not in the founder records, so we can't confirm that an application exists or what its status is.

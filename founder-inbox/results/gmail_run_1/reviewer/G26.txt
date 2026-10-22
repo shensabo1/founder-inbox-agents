@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: Moving credits to a separate Console organization is not covered by the policy, so it is an exception-type request that must go to a human. The draft handles it correctly by promising nothing and passing it on, but the rules say to flag exception requests.

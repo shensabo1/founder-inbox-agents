@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Hana,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: "Not covered by this policy: if a question is not answered by this policy, do not guess. Send it to a human." The escalation map routes legal questions to Legal / Operations.
+needs_human: yes
+reason: The policy says nothing about data or prompt rights, which is a legal-style question, so I used the T10 holding reply and did not guess.

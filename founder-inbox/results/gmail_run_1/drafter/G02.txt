@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Hana,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Extension requests are exception requests that the inbox must never promise or decide; exceptions and extensions go to the Program lead.
+needs_human: yes
+reason: Hana is asking to extend Orbitly's credits (currently expiring 2027-01-31 in the records) to March, which is an exception request that only the Program lead can decide.

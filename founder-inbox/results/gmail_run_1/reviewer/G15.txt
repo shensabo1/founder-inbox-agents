@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The policy does not cover adding teammates to a Console account, so a human must answer, and the record's Trust and Safety duplicate-application flag makes extra account access a risk, so I am unsure and flagging.

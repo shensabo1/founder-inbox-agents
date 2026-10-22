@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: APPROVE
+reason: The draft matches Datahive's record (credits used, balance 0, expiration January 31, 2027), answers Omar's balance question directly, and promises nothing extra.

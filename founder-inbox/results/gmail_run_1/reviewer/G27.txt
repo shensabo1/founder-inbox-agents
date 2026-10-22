@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The sender is an unverified third party asking for Lumen Labs' credit balance and expiration, which can't be shared with someone else under policy, so the draft rightly discloses nothing but the request needs a human to handle it.

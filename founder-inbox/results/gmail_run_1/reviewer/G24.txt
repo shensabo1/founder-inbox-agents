@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: FAIL
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The sender has no founder record and the policy does not cover Claude Code use or team-member limits, so the draft correctly defers but does not answer either question, and a human should confirm the handoff.

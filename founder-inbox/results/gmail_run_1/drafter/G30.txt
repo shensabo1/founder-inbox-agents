@@ -1,0 +1,13 @@
+record_found: no
+template_used: T7
+draft: Hi Kai,
+
+Thanks for your interest! You can apply at claude.com/programs/startups using your Claude Console account and a company email address.
+
+To qualify for credits, a company needs institutional equity funding, must have been founded within the last four years, and can't have received Anthropic startup credits before. Applications are reviewed on a rolling basis, and meeting the criteria makes a company eligible to apply but doesn't guarantee approval.
+
+Best,
+The Claude for Startups team
+policy_rule_applied: Who qualifies for credits (institutional funding, founded within four years, no prior credits) and How to apply. The sender has no record and is asking how to qualify, so the T7 rule applies and no record is needed.
+needs_human: no
+reason: Kai's email isn't in the records, but the question is a general "do we qualify / how to apply" one, which T7 answers without needing a record.

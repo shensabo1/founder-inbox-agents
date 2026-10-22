@@ -1,0 +1,11 @@
+record_found: no
+template_used: T10
+draft: Hola Mateo,
+
+Gracias por tu mensaje. Lo he pasado a la persona adecuada de nuestro equipo para que recibas una respuesta precisa, y se pondrá en contacto contigo directamente.
+
+Gracias por tu paciencia,
+The Claude for Startups team
+policy_rule_applied: "Not covered by this policy: if a question is not answered by this policy, do not guess. Send it to a human." The policy has no rule on country or regional availability. Escalation map: policy questions not covered go to the Program lead.
+needs_human: yes
+reason: The question is about availability for companies in Mexico, which the policy does not address, so it goes to a human instead of a guess or the T7 how-to-apply answer.

@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: APPROVE
+reason: The draft correctly says Lumen Labs is approved with active credits expiring 2027-03-31, and that priority rate limits come with the program while credits are active, which matches the policy and records.

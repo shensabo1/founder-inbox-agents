@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: raj@fieldnote.app has no entry in the Founder Records, so the application status cannot be verified, and I'm not sure a hand-off reply is safe to send without a human checking the sender.

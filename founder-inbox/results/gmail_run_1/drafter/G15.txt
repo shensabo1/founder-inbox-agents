@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Tasha,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Requests to share credits or extend them to others are exception requests, so the inbox sends a T10 holding reply. The policy doesn't cover adding teammates, so it goes to a human (Program lead). The record also carries a Trust and Safety flag, which is not mentioned in the reply.
+needs_human: yes
+reason: Adding cofounders to use the credits is a credit-sharing request that the policy doesn't cover, and the record has a Trust and Safety flag for duplicate applications.

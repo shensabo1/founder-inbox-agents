@@ -1,0 +1,8 @@
+policy: PASS
+facts: PASS
+no_overpromising: PASS
+answers_question: PASS
+tone: PASS
+safety: PASS
+decision: FLAG
+reason: The policy does not cover reapplication waiting periods, so the draft correctly avoids guessing and defers to a human, but because this concerns a denied applicant and a question outside the policy, it needs human review before sending.

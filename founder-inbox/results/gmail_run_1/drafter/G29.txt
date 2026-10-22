@@ -1,0 +1,11 @@
+record_found: yes
+template_used: T10
+draft: Hi Jordan,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: Drafter rule: when a founder reports a change that could affect eligibility (new funding), do not re-decide from existing records; use T10 and send to a human. Policy: a denied founder who reports new funding must submit a fresh application, and the inbox does not reopen denied applications. Eligibility and timing questions are decided by the Program lead, not the inbox.
+needs_human: yes
+reason: Jordan reports new funding (a signed but unclosed VC term sheet) that could change eligibility, and the policy does not say how an unclosed round is treated, so a human must answer.

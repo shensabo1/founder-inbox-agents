@@ -1,0 +1,13 @@
+record_found: yes
+template_used: T5
+draft: Hi Chris,
+
+Thanks for the question! Your startup credits apply to the Claude API through the Claude Console. They don't apply to Claude through AWS Bedrock, so they wouldn't come with you if you move your workloads there.
+
+If you send your requests through the Claude API with your Console account, your credits will apply. Let us know if you have any other questions.
+
+Happy building,
+The Claude for Startups team
+policy_rule_applied: Credits apply ONLY to the Claude API through the Claude Console, and do NOT apply to Claude through AWS Bedrock or Google Cloud Vertex AI.
+needs_human: no
+reason: The record shows Brightlane is approved with active credits, and the policy directly answers that credits do not apply on Bedrock, so template T5 fits with no promises made.

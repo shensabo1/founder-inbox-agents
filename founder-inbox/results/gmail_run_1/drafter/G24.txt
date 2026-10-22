@@ -1,0 +1,11 @@
+record_found: no
+template_used: T10
+draft: Hi Jen,
+
+Thanks for your message. I've passed it to the right person on our team so you get an accurate answer, and they'll follow up with you directly.
+
+Thanks for your patience,
+The Claude for Startups team
+policy_rule_applied: "Not covered by this policy": the policy does not say whether credits work with Claude Code or whether the number of team members who can use them is limited, so it is not guessed at and is routed to a human (Program lead).
+needs_human: yes
+reason: The sender (jen@acornlabs.co) has no record, and both questions (Claude Code usage and a team member limit) are not answered by the policy, which only says credits apply to the Claude API through the Claude Console.
